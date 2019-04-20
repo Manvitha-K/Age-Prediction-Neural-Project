@@ -1,5 +1,5 @@
-Instructions for Running:\n
-Dependencies:\n
+Instructions for Running:
+Dependencies:
 Python 3: Running CNN
 Python 2.7: Running Tkinter
 Tkinter
