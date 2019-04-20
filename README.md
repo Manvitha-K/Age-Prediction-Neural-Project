@@ -1,4 +1,4 @@
-##Instructions for Running:\n  
+## Instructions for Running:    
 **Dependencies:**  
 Python 3: Running CNN  
 Python 2.7: Running Tkinter  
@@ -13,22 +13,22 @@ dlib
 gensim  
 cmake  
   
-*Run:*  
+**Run:**  
 After cloning the repository from github (assuming you maintained same relative folder structure)  
 
-*For running base model:*  
+**For running base model:**  
 python Base.py   
 
-*For running pretrained model:*  
+**For running pretrained model:**  
 python preTrained.py  
 
-*For running GUI:*  
+**For running GUI:**  
 GUI.py  
 
-*For creating cropped face images:*  
+**For creating cropped face images:**  
 faceRecog.ipynb  
 
-*For loading the trained model:*    
+**For loading the trained model:**    
 These models should be downloaded to /hdf folders    
 https://drive.google.com/open?id=1M-H2zl1u6GkV8ozDYNb3_GdErs9utqav    
 
