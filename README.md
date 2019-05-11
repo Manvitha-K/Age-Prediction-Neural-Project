@@ -41,5 +41,6 @@ faceRecog.ipynb does the face detection algorithm and extracts cropped face imag
 preTrainbed.py loads the model trained on original images and then finetunes these weights by running on only facial images  
 GUI.py: Application that when inputted with an image does age estimation  
 
-**References:**
+**References:**  
+Face Recognition  
 https://github.com/krasserm/face-recognition
