@@ -40,3 +40,7 @@ Base.py is basic CNN with 3 CNN layers followed by 2 dense layers
 faceRecog.ipynb does the face detection algorithm and extracts cropped face images from original images  
 preTrainbed.py loads the model trained on original images and then finetunes these weights by running on only facial images  
 GUI.py: Application that when inputted with an image does age estimation  
+
+**References:**  
+Face Recognition  
+https://github.com/krasserm/face-recognition
